@@ -37,8 +37,6 @@
    git clone https://github.com/AxaySharma/factoryflow.git
    cd factoryflow
    ```
-````
-
 2. **Install backend dependencies**:
    ```bash
    npm install
@@ -101,7 +99,4 @@ This project is private. For collaboration, contact [Akshay Sharma](mailto:axayb
 ## ✨ Credits
 
 Developed with ❤️ by [Akshay Sharma](https://github.com/AxaySharma).
-
-```
-
-```
+````
